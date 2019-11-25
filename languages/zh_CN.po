@@ -87,8 +87,8 @@ msgid "BiuBiuBiu~"
 msgstr "BiuBiuBiu~"
 
 #: comments.php:63
-msgid "You are a surprise that I will only meet once in my life"
-msgstr "你是我一生只会遇见一次的惊喜"
+msgid "You can enter comments here"
+msgstr "在这里可以输入评论~"
 
 #: comments.php:67
 msgid "Click me OωO"
@@ -100,7 +100,7 @@ msgstr "嘿嘿嘿 ヾ(≧∇≦*)ゝ"
 
 #: comments.php:93
 msgid "Auto pull nickname and avatar with a QQ num. entered"
-msgstr "输入QQ号将自动拉取昵称和头像"
+msgstr "输入QQ号将自动生成昵称和头像"
 
 #: comments.php:93
 msgid "Nickname or QQ number"
@@ -1839,8 +1839,8 @@ msgstr "暂未开放注册。 "
 #~ msgid "暂无评论"
 #~ msgstr "暂无评论"
 
-#~ msgid "你是我一生只会遇见一次的惊喜"
-#~ msgstr "你是我一生只会遇见一次的惊喜"
+#~ msgid "在这里可以输入评论~"
+#~ msgstr "在这里可以输入评论~"
 
 #~ msgid "昵称或QQ号"
 #~ msgstr "昵称或QQ号"

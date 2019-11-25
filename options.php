@@ -59,7 +59,7 @@ function optionsframework_options() {
 	// 背景默认值
 	$background_defaults = array(
 		'color' => '',
-		'image' => 'https://view.moezx.cc/images/2018/12/23/knights-of-the-frozen-throne-8k-qa.jpg',
+		'image' => 'https://img2018.cnblogs.com/blog/1446116/201909/1446116-20190930184928670-1219323995.jpg',
 		'repeat' => 'repeat',
 		'position' => 'top center',
 		'attachment'=>'scroll' );
@@ -329,7 +329,7 @@ function optionsframework_options() {
 		'name' => __('Footer info', 'sakura'),/*页脚信息*/
 		'desc' => __('Footer description, support for HTML code', 'sakura'),/*页脚说明文字，支持HTML代码*/
 		'id' => 'footer_info',
-		'std' => 'Copyright &copy; by Mashiro All Rights Reserved.',
+		'std' => 'Copyright &copy; by MokouTyan All Rights Reserved.',
 		'type' => 'textarea');
 
 	$options[] = array(

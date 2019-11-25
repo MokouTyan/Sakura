@@ -322,7 +322,7 @@ function optionsframework_options() {
 		'name' => __('Blogger description', 'sakura'),/*博主描述*/
 		'desc' => __('A self-described statement', 'sakura'),/*一段自我描述的话*/
 		'id' => 'admin_des',
-		'std' => '一沙一世界，一花一天堂。君掌盛无边，刹那成永恒。',
+		'std' => '一个人的旅行，或许并不孤独。',
 		'type' => 'textarea');	
 
 	$options[] = array(

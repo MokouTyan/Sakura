@@ -273,7 +273,7 @@ function optionsframework_options() {
 	$options[] = array(
 		'name' => __('Comment shrink', 'sakura'),/*评论收缩*/
 		'id' => 'toggle-menu',
-		'std' => "yes",
+		'std' => "no",
 		'type' => "radio",
 		'options' => array(
 			'yes' => __('Open', 'sakura'),/*开启*/
